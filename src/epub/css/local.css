@@ -38,5 +38,4 @@ footer{
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
-
 /* end verse formatting */

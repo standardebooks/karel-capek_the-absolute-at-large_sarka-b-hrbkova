@@ -36,3 +36,7 @@ footer{
 	display: none;
 }
 /* end verse formatting */
+
+.telegram{
+	font-variant: all-small-caps;
+}

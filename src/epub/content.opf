@@ -51,8 +51,8 @@
 		<meta property="file-as" refines="#author">Čapek, Karel</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Karel_%C4%8Capek</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50035042</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Šárka B. Hrbková</dc:contributor>
 		<meta property="file-as" refines="#translator">Hrbková, Šárka B.</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/%C5%A0%C3%A1rka_B._Hrbkov%C3%A1</meta>
